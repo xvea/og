@@ -7,7 +7,7 @@ const IS_HTML_DEBUG = process.env.OG_HTML_DEBUG === '1';
 
 // http://localhost:3000/images?title=Using%20CSS%20variables%20with%20TailwindCSS&top=October%205%20,%202021%20-%203min%20read
 
-const HOST = 'https://og.dpnkr.in';
+const HOST = 'https://og.xve.re';
 
 export default async function handler(
   req: IncomingMessage,
