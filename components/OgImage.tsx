@@ -48,7 +48,7 @@ const OgImage: React.FC<ImageProps> = ({ title = '', top }) => {
         <h1 style={title.length < 60 ? lg : md}>{title}</h1>
         <div className='flex justify-between w-full'>
           <p className='mono' style={{ fontSize: '28px', color: '#c4c4c4' }}>
-            dpnkr.in
+            xve.re
           </p>
           <svg
             xmlns='http://www.w3.org/2000/svg'
