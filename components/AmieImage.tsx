@@ -19,7 +19,7 @@ const AmieImage: React.FC<ImageProps> = ({ title = '', top }) => {
         }}
       >
         <div className='rounded-full w-32 h-32 z-10 overflow-hidden mt-32'>
-          <img src='/logo.webp' alt='' />
+          <img src='/logo.png' alt='' />
         </div>
 
         <div className='z-10'>
